@@ -1,0 +1,10 @@
+.form-group{
+   max-width: 800px;
+   width: 100%;
+   min-height: 200px; /*delete*/
+   margin: 0 auto 24px auto;
+   padding: 25px 40px 15px 40px;
+   background-color: #fff;
+   box-shadow: 0 0 5px 0px #ccc;
+   border-radius: 4px;
+}

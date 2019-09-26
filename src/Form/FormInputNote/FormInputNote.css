@@ -1,0 +1,13 @@
+.input-note {
+    font-weight: 400;
+    color: #ccc;
+    display: block;
+    width: 100%;
+    font-size: 0.7em;
+    font-style: italic;
+}
+
+.input-note__extraText {
+    display: inline-block;
+    float: right;
+}
