@@ -1,6 +1,6 @@
 # Simple form with validation
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Form showcasing one of my first React projects. It needs a lot of refactoring, all controlls should be put into separate components, but that's dull, I have some better stuff coming up :)
 
 ## Instalation
 
