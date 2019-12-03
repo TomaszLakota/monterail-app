@@ -1,6 +1,6 @@
 # Simple form with validation
 
-Form showcasing one of my first React projects. It needs a lot of refactoring, all controlls should be put into separate components, but that's dull, I have some better stuff coming up :)
+Form showcasing one of my first React projects. It needs a lot of refactoring, to name one all controls should be put into separate components, but that's dull, I have some better stuff coming up :)
 
 ## Instalation
 
